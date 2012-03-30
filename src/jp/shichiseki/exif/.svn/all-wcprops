@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/share/!svn/ver/7207/lang/actionscript/ExifInfo/src/jp/shichiseki/exif
+END
+IFDSet.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/share/!svn/ver/7207/lang/actionscript/ExifInfo/src/jp/shichiseki/exif/IFDSet.as
+END
+Tags.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/share/!svn/ver/7207/lang/actionscript/ExifInfo/src/jp/shichiseki/exif/Tags.as
+END
+TIFFHeader.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/share/!svn/ver/7207/lang/actionscript/ExifInfo/src/jp/shichiseki/exif/TIFFHeader.as
+END
+ExifLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/share/!svn/ver/7207/lang/actionscript/ExifInfo/src/jp/shichiseki/exif/ExifLoader.as
+END
+IFD.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/share/!svn/ver/7207/lang/actionscript/ExifInfo/src/jp/shichiseki/exif/IFD.as
+END
+IFDEntry.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/share/!svn/ver/7207/lang/actionscript/ExifInfo/src/jp/shichiseki/exif/IFDEntry.as
+END
+ExifInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/share/!svn/ver/7207/lang/actionscript/ExifInfo/src/jp/shichiseki/exif/ExifInfo.as
+END
